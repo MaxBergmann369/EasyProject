@@ -1,1 +1,1 @@
-# ProjectPlanner
+# Easy Project
